@@ -1,4 +1,4 @@
-package com.netty.test;
+package com.netty.init;
 
 //--------------------- Change Logs----------------------
 // <p>@author ruirui.qu Initial Created at 2020-03-08<p>
